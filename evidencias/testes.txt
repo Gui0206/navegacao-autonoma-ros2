@@ -1,0 +1,12 @@
+Mapa | Movimentos de exploração | Passos da rota validada
+1.csv | 780 | 102
+10.csv | 780 | 48
+2.csv | 780 | 102
+3.csv | 780 | 192
+4.csv | 780 | 114
+5.csv | 780 | 204
+6.csv | 780 | 110
+7.csv | 780 | 96
+8.csv | 780 | 164
+9.csv | 780 | 190
+test.csv | 1454 | 25
